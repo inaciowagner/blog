@@ -64,7 +64,7 @@ def posts():
     st.markdown('''
         # Guns of Brixton
         ###### 23.ago.2024 às 15h40
-        As histórias de opressão se perdem na escuridão de sua própria ignorância e ficam dando voltas as escuras no tempo e no espaço, se repetindo no decorrer da história...
+        ## As histórias de opressão se perdem na escuridão de sua própria ignorância e ficam dando voltas as escuras no tempo e no espaço, se repetindo no decorrer da história no mundo...
 
         "The Guns of Brixton" é uma música da banda britânica The Clash, lançada em 1979 no álbum *London Calling*. A canção aborda temas de opressão, resistência e tensão social, especialmente no contexto da comunidade negra em Brixton, um bairro de Londres. Vamos explorar alguns aspectos socioculturais dessa letra:
 

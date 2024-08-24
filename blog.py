@@ -11,7 +11,7 @@ menu_selection = st.sidebar.radio("Navegação", menu_options)
 # Função para exibir a página inicial usando HTML
 def home():
     st.markdown("""
-        <h1>Bem-vindo ao Meu Blog</h1>
+        <h1>Bem-vindo a Casa do Carvalho</h1>
         <p>Este é um blog de exemplo criado com Streamlit. Aqui você encontrará várias postagens sobre diferentes tópicos.</p>
         <p>Use o menu à esquerda para navegar pelo blog.</p>
         <a href="bit.ly/FalarComInacio">@inaciowagner</a>

@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Configuração da página
-st.set_page_config(page_title="Meu Blog", layout="wide")
+st.set_page_config(page_title="Casa do Carvalho", layout="wide")
 
 # Barra lateral de navegação
 st.sidebar.title("Menu")

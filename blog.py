@@ -50,7 +50,7 @@ def posts():
 ### Conclusão
    A relação entre fascismo e capitalismo pode ser vista como uma forma de simbiose, onde o fascismo protege os interesses capitalistas em momentos de crise, mas com algumas diferenças em termos de organização econômica e controle do Estado. Para críticos marxistas, o fascismo é uma forma extrema de defender o capitalismo contra as ameaças de revoluções socialistas, enquanto, para outros, ele é uma forma de autoritarismo que adapta o capitalismo a um modelo mais centralizado e nacionalista.
    ''')
-    st.markdown("<hr/>")
+    st.html("<hr/>")
     st.markdown("""
         # Alimentação
         ###### 24.ago.2024 às 13h58

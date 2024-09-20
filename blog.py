@@ -29,9 +29,8 @@ def about():
 def posts():
     st.html("<hr/>")
     st.markdown('''
-# O Fascismo, Uma Muleta do Capitalismo 
-
-        ###### 20.set.2024 às 09h10
+# O Fascismo, Uma Muleta do Capitalismo
+###### 20.set.2024 às 09h10
 
 ### 1. **Fascismo como defensor do capitalismo**
    Muitos argumentam que o fascismo, apesar de suas características autoritárias e nacionalistas, preservou e até reforçou o sistema capitalista. Isso se deu por meio de alianças entre o Estado fascista e grandes corporações e elites econômicas. O regime fascista muitas vezes protegeu os interesses do capital, reprimindo movimentos sindicais, comunistas e socialistas, que ameaçavam a ordem capitalista. Essa relação foi evidente, por exemplo, na Itália e na Alemanha, onde grandes empresas e indústrias colaboraram com os regimes fascistas, se beneficiando de contratos estatais, trabalho forçado e uma supressão de direitos trabalhistas.

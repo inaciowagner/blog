@@ -27,6 +27,31 @@ def about():
 
 # Função para exibir a página de posts usando HTML
 def posts():
+    st.html("<hr/>")
+    st.markdown('''
+# O Fascismo, Uma Muleta do Capitalismo 
+
+        ###### 20.set.2024 às 09h10
+
+### 1. **Fascismo como defensor do capitalismo**
+   Muitos argumentam que o fascismo, apesar de suas características autoritárias e nacionalistas, preservou e até reforçou o sistema capitalista. Isso se deu por meio de alianças entre o Estado fascista e grandes corporações e elites econômicas. O regime fascista muitas vezes protegeu os interesses do capital, reprimindo movimentos sindicais, comunistas e socialistas, que ameaçavam a ordem capitalista. Essa relação foi evidente, por exemplo, na Itália e na Alemanha, onde grandes empresas e indústrias colaboraram com os regimes fascistas, se beneficiando de contratos estatais, trabalho forçado e uma supressão de direitos trabalhistas.
+
+### 2. **Crítica marxista ao fascismo**
+   Do ponto de vista marxista, o fascismo é frequentemente interpretado como uma resposta do capitalismo em crise. Segundo teóricos como Leon Trotsky e Antonio Gramsci, o fascismo surge como uma forma de "última linha de defesa" do capitalismo em tempos de grande instabilidade social e econômica, quando as forças trabalhistas e socialistas ameaçam o sistema. Nesse sentido, o fascismo é uma reação violenta do capital para proteger seus interesses e suprimir a revolução proletária.
+
+### 3. **Diferenças fundamentais**
+   Embora o fascismo tenha preservado a propriedade privada e colaborado com capitalistas, ele difere do capitalismo liberal clássico em vários aspectos. O fascismo é contra o livre mercado absoluto e contra o internacionalismo econômico defendido por liberais. Ele favorece um modelo econômico nacionalista e corporativista, em que o Estado tem um papel mais intervencionista, organizando e regulando a economia em favor do bem da "nação", enquanto mantém a propriedade privada e colabora com os interesses empresariais. Isso contrasta com o ideal liberal de mercado livre sem intervenção estatal.
+
+### 4. **O uso da violência e repressão**
+   No fascismo, o uso da violência e do controle total sobre a sociedade também favorece o capitalismo. A repressão aos sindicatos, à liberdade de imprensa e à oposição política cria um ambiente de "estabilidade" para o funcionamento do capitalismo, especialmente em um contexto de crise econômica. O fascismo, portanto, pode ser visto como uma forma de garantir a continuidade do sistema capitalista pela força, quando os mecanismos democráticos não são mais suficientes para controlar os conflitos de classe.
+
+### 5. **Capitalismo de Estado e Fascismo**
+   Embora o capitalismo tradicional defenda a livre iniciativa e a competição, o fascismo introduz um modelo de **capitalismo de Estado** ou **corporativismo**. Nesse sistema, o Estado controla e organiza setores da economia, mas em colaboração com grandes empresas. A economia é dirigida para servir aos interesses do Estado e da elite capitalista, mas sob rígido controle centralizado. Isso resulta em um sistema onde os benefícios são concentrados nas elites, enquanto a massa trabalhadora perde direitos e autonomia.
+
+### Conclusão
+   A relação entre fascismo e capitalismo pode ser vista como uma forma de simbiose, onde o fascismo protege os interesses capitalistas em momentos de crise, mas com algumas diferenças em termos de organização econômica e controle do Estado. Para críticos marxistas, o fascismo é uma forma extrema de defender o capitalismo contra as ameaças de revoluções socialistas, enquanto, para outros, ele é uma forma de autoritarismo que adapta o capitalismo a um modelo mais centralizado e nacionalista.
+   ''')
+    st.markdown("<hr/>")
     st.markdown("""
         # Alimentação
         ###### 24.ago.2024 às 13h58

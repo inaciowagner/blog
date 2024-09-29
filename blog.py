@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", page_icon="tree.png", page_title="Casa do Carvalho")
 
 # cabeçalho do blog
 st.html("<img src='https://raw.githubusercontent.com/inaciowagner/blog/refs/heads/main/casa_do_carvalho.png'>")

@@ -1,0 +1,19 @@
+[theme]
+primaryColor="#F63366"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F0F2F6"
+textColor="#262730"
+font="sans-serif"
+
+[server]
+port = 8501
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[mapbox]
+access_token = "your_mapbox_access_token"  # Para usar mapas do Mapbox
+
+[data]
+showDatafv = true

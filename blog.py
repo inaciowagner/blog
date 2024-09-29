@@ -6,7 +6,13 @@ st.set_page_config(layout="wide")
 with open("blog.html", "r", encoding='utf-8') as f:
     html_string = f.read()
 
-components.html(html_string, height=500)
+st.html("<img src='casa_do_carvalho.png'>")    
+
+st.markdown('''
+    ###### Postado em: 29/09/2024 - 12:00
+
+''')
+components.html(html_string, height=3500)
 
 #st.markdown(
  #   """

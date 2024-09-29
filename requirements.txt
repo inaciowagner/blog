@@ -1,2 +1,2 @@
 email 
-streamlit.components.v1
+components.v1

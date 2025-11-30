@@ -37,7 +37,7 @@ st.html("""
         """)
 
 st.image(
-    'imagens/Captura de tela de 2025-11-30 14-04-40.png',
+    'Captura de tela de 2025-11-30 14-04-40.png',
     caption='Comounidade no Whatsapp',
     width=300
 )

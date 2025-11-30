@@ -7,10 +7,9 @@ st.set_page_config(layout="wide", page_icon="💰", page_title="Reforma Tributá
 st.markdown(''' 
  # WEBINAR REFORMA TRIBUTÁRIA
 ## TOTVS CONSINCO
-
+---
 ### Anotações
 
-#### Agenda 
 1. Como preparar o PDV para a Reforma Tributária
     ##### Estrutura e Motor Tributário
     	a) Estrutura
@@ -24,7 +23,8 @@ st.markdown('''
 * Integrações para linhas Consinco e RMS: ter acesso ao Configurador de Cenários Tributários e configurado cenários tributários;
 * Realizar o envio de cargas;
 * Ativar o parâmetro da Reforma Tributária
-            
+
+---
 ##### Obs:
 * atualizar os PDVs;
 * nossa versão atualmente 25.9.0.4;

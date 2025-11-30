@@ -38,7 +38,7 @@ st.html("""
 
 st.image(
     'Captura de tela de 2025-11-30 14-04-40.png',
-    caption='Comounidade no Whatsapp',
+    caption='https://chat.whatsapp.com/DZEtVKJQto41I1Z9TUCCkL ',
     width=300
 )
-st.write("https://chat.whatsapp.com/DZEtVKJQto41I1Z9TUCCkL")
+#st.write("https://chat.whatsapp.com/DZEtVKJQto41I1Z9TUCCkL")

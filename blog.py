@@ -17,9 +17,13 @@ st.markdown('''
     	    * Adequando os processos da nova importação e exportação de vendas, alinhada à nova estrutura tributária.
     
           
-2. Detalhes completos no TOTVS Varejo Supermercado PDV
-
-
+2. Pré-requisitos para instalar
+* Ter acesso ao Monitor de PDVs;
+* Ter realizado as configurações de emissão de NFC-e no PDV;
+* definir o ambiente de emissão: homologação ou produção;
+* Integrações para linhas Consinco e RMS: ter acesso ao Configurador de Cenários Tributários e configurado cenários tributários;
+* Realizar o envio de cargas;
+* Ativar o parâmetro da Reforma Tributária
             
 ##### Obs:
 * atualizar os PDVs;

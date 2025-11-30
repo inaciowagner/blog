@@ -41,3 +41,4 @@ st.image(
     caption='Comounidade no Whatsapp',
     width=300
 )
+st.write("https://chat.whatsapp.com/DZEtVKJQto41I1Z9TUCCkL")

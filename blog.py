@@ -36,6 +36,7 @@ st.markdown('''
 * atualizar os PDVs;
 * necessária 25.11.006;
 * nossa versão atualmente 25.9.0.4;
+* prazo 05/02/2026.
 ''')
 
 st.html("""

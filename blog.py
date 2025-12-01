@@ -32,7 +32,9 @@ st.markdown('''
 
 ---
 ##### Obs:
+* o resultado da atualização é transparente para o operador(a) de caixa;
 * atualizar os PDVs;
+* necessária 25.11.006;
 * nossa versão atualmente 25.9.0.4;
 ''')
 

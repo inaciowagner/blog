@@ -27,7 +27,8 @@ st.markdown('''
 **Ativando o parâmetro:**
 1. Monitor -> Configurações -> Cargas -> Cargas para Monitor;
 2. Monitor -> Configurações -> Cargas -> Cargas para PDV;
-3. Monitor -> Configurações -> Configurações de PDVs -> DF-e -> Geral -> Ativa Reforma Tributária 
+3. Monitor -> Configurações -> Configurações de PDVs -> DF-e -> Geral -> Ativa Reforma Tributária
+(recomenda-se fazer em um PDV inicialmente como teste, e posteriormente faz-se nos demais) 
 
 ---
 ##### Obs:
